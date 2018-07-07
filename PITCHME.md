@@ -1,23 +1,10 @@
 # Code Like the Go Team
 
 ---
-## About Me
-
-- Microsoft Azure - Cloud Developer Advocate
-- Twitter: @ashleymcnamara
-- Github: ashleymcnamara
-- GOPHERS!: https://github.com/ashleymcnamara/gophers
-
---- 
 
 ## This Talk
 
 [https://cda.ms/jP](https://cda.ms/jP)
-
-
----?image=assets/image/brian.jpeg&opacity=100%
-
-@title[My Hero]
 
 ---
 
@@ -27,6 +14,12 @@
 - code patterns and conventions that are prevalent in the standard library  
 - how to write your code to be more clear and understandable  
 - unwritten Go conventions that go beyond “go fmt” and make you look like a veteran Go contributor wrote it
+
+Note:
+- Как организовать код в пакеты и что эти пакеты должны содержать
+- Шаблоны и соглашения по коду, которые приняты в стандартной библиотеке
+- Как писать более чистый и читабельный код
+- негласные соглашения которые делают ваш код таким, будто его писал ветеран контрибьютор на Go
 
 ---
 
